@@ -23,7 +23,7 @@
     <properties>
         <spring.boot.version>2.3.0.RELEASE</spring.boot.version>
         <jjwt.version>0.9.0</jjwt.version>
-        <ali.fastjson.version>1.2.38</ali.fastjson.version>
+        <ali.fastjson.version>1.2.83</ali.fastjson.version>
     </properties>
 
     <dependencies>
